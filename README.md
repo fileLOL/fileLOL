@@ -6,6 +6,6 @@
 
 <DEVops
 fileLOL/DEVops is a ✨ fresh ✨ and quiet learning about earn in the web.
-COMMUNITY MANAGEMENT on linktr.ee/catalunyarevoluci + instagram.com/nftbcn + twitter.com/bigblockbooster
+COMMUNITY MANAGEMENT on linktr.ee/catalunyarevoluci + instagram.com/kaos.vaina + twitter.com/bigblockbooster
         hiring now> [UI/UX] [rawCM] [P2P] [git] [floss]
   
